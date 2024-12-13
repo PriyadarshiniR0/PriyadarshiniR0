@@ -20,4 +20,6 @@
 <h3 align="left"> Knowlege based on few projects:</h3>
 <p align="left"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </a> 
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyadarshinir0&show_icons=true&locale=en&layout=compact" alt="priyadarshinir0" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadarshinir0&" alt="priyadarshinir0" /></p>
