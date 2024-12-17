@@ -1,7 +1,8 @@
 
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Priyadarshini R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 - 🌱 I’m currently learning **Basic Python programming,Html and Css,JavaScript,Bootstrap,Django**
 
