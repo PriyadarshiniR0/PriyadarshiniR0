@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Priyadarshini R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<h3 align="center">A passionate Python full stack developer from India</h3>
 
 - 🌱 I’m currently learning **Basic Python programming,Html and Css,JavaScript,Bootstrap,Django**
 
@@ -22,6 +20,9 @@
 <h3 align="left"> Knowlege based on few projects:</h3>
 <p align="left"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
+<h3 align="left"> Tools I use:</h3>
+<img height="50" width="50" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000"/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyadarshinir0&show_icons=true&locale=en&layout=compact" alt="priyadarshinir0" /></p>
 
 
