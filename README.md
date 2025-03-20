@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyadarshini R</h1>
 <h3 align="center">A passionate Python full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Basic Python programming,Html and Css,JavaScript,Bootstrap,Django**
-
-- 💬 Ask me about **Python,Html and Css,JavaScript,Bootstrap**
+- 💬 Ask me about **Python,Html and Css,JavaScript,Bootstrap,Django,Basic knowledge on Flask,RESTApi**
 
 - 📫 How to reach me **priyadarshiniraju2002@gmail.com**
 
