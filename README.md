@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Priyadarshini R</h1>
 <h3 align="center">💻 Python Full Stack Developer | 🌐 Django & Flask | ⚡ REST APIs | 🗄️ SQL | 🎨 Responsive UI</h3>  
 
@@ -16,26 +15,28 @@ From building CRUD apps in Django to implementing ML-powered projects, I enjoy t
 - **Databases:** SQL, MySQL, Oracle, SQL Server *(Optimization, Joins, Indexing)*  
 - **Testing & Tools:** Selenium, Unit Testing, Git/GitHub  
 - **Methodologies:** Agile, Responsive Web Design  
-- **Core Strengths:** Problem-Solving, Teamwork, Clean Code, Time Management  
+- **Core Strengths:** Problem-Solving, Teamwork, Writing Clean Code, Time Management  
 
 ---
 
 ## 📊 Creating Scalable Solutions  
-I specialize in applications that are **optimized, responsive, and secure**.  
+I specialize in building applications that are **optimized, responsive, and secure**.  
 My strength lies in **Python frameworks + SQL databases** to deliver solutions that scale with user needs.  
 
 ---
 
 ## 🎨 Code with Purpose  
 Every line of code I write is aimed at creating something **useful, efficient, and impactful**.  
-I love working across the stack — from Python backends to responsive frontends — to deliver **end-to-end solutions**.  
+I love working across the stack — from **Python backends to responsive frontends** — to deliver **end-to-end solutions**.  
 
 ---
 
 ## 🧠 Ideas Into Reality  
-I enjoy taking concepts from **idea to execution**, as seen in my projects like:  
-- 🔹 **Diabetic Prediction ML App** (95% accuracy with Flask interface)  
-- 🔹 **Django Web Applications** (Authentication, CRUD, Admin Dashboards, REST APIs)  
+I enjoy turning **concepts into execution**, as shown in my projects:  
+- 🩺 **Diabetic Prediction ML App** – Achieved 95% accuracy with a Flask-based interface and data visualization.  
+- 🐍 **Python Development** – Full-stack projects using Django & Flask with APIs, authentication, CRUD operations, and dashboards.  
+- 🌐 **Django Web Applications** – Built authentication, CRUD functionality, admin dashboards, and REST APIs.  
+- 💛 **JavaScript Frontend Apps** – Developed interactive UIs with dynamic features and client-side logic.  
 
 ---
 
@@ -57,7 +58,6 @@ I bring **energy, curiosity, and determination** to every project I work on.
 ## 📊 GitHub Stats  
 
 <p align="center">
- 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyadarshiniR0&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>  
 
