@@ -1,71 +1,66 @@
+
 <h1 align="center">Hi 👋, I'm Priyadarshini R</h1>
-<h3 align="center">A passionate Python Full Stack Developer from India</h3>
-
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, Bootstrap, Django, Flask (Basics), REST API**
-- 📫 Reach me at **priyadarshiniraju2002@gmail.com**
+<h3 align="center">💻 Python Full Stack Developer | 🌐 Django & Flask | ⚡ REST APIs | 🗄️ SQL | 🎨 Responsive UI</h3>  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/priyadarshini-r-b62751274/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyadarshini R LinkedIn" height="30" width="40" />
-</a>
-</p>
+## 💻 Why I Code  
+Coding allows me to **solve problems, create solutions, and bring ideas to life**.  
+From building CRUD apps in Django to implementing ML-powered projects, I enjoy turning challenges into clean, working solutions.  
 
 ---
 
-<h3 align="left">⚒️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-</p>
+## 🛠️ Tools & Skills  
+
+- **Programming & Frameworks:** Python (OOP, Django, Flask), JavaScript, Bootstrap, jQuery  
+- **Databases:** SQL, MySQL, Oracle, SQL Server *(Optimization, Joins, Indexing)*  
+- **Testing & Tools:** Selenium, Unit Testing, Git/GitHub  
+- **Methodologies:** Agile, Responsive Web Design  
+- **Core Strengths:** Problem-Solving, Teamwork, Clean Code, Time Management  
 
 ---
 
-<h3 align="left">📂 Additional Knowledge (from projects):</h3>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> 
-  </a>
-</p>
+## 📊 Creating Scalable Solutions  
+I specialize in applications that are **optimized, responsive, and secure**.  
+My strength lies in **Python frameworks + SQL databases** to deliver solutions that scale with user needs.  
 
 ---
 
-<h3 align="left">🛠️ Tools I Use:</h3>
-<p align="left">
-  <img height="50" width="50" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" alt="PyCharm"/>
-</p>
+## 🎨 Code with Purpose  
+Every line of code I write is aimed at creating something **useful, efficient, and impactful**.  
+I love working across the stack — from Python backends to responsive frontends — to deliver **end-to-end solutions**.  
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyadarshinir0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyadarshinir0" />
-</p>
+## 🧠 Ideas Into Reality  
+I enjoy taking concepts from **idea to execution**, as seen in my projects like:  
+- 🔹 **Diabetic Prediction ML App** (95% accuracy with Flask interface)  
+- 🔹 **Django Web Applications** (Authentication, CRUD, Admin Dashboards, REST APIs)  
+
+---
+
+## 🔥 Passion That Powers My Work  
+My passion for **coding, problem-solving, and continuous learning** fuels my journey.  
+I bring **energy, curiosity, and determination** to every project I work on.  
+
+---
+
+## 🌐 Connect With Me  
+
+📩 **Email:** [priyadarshiniraju2002@gmail.com](mailto:priyadarshiniraju2002@gmail.com)  
+🌐 **Portfolio:** [portfolio-ulvs.onrender.com](https://portfolio-ulvs.onrender.com/)  
+💻 **GitHub:** [github.com/PriyadarshiniR0](https://github.com/PriyadarshiniR0)  
+🔗 **LinkedIn:** [linkedin.com/in/priyadarshini-r-b62751274](https://www.linkedin.com/in/priyadarshini-r-b62751274/)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyadarshiniR0&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>  
+
+---
+
+✨ *“Code with purpose. Build with passion. Deliver with impact.”*  
