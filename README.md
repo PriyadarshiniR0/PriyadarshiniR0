@@ -63,4 +63,12 @@ I bring **energy, curiosity, and determination** to every project I work on.
 
 ---
 
-✨ *“Code with purpose. Build with passion. Deliver with impact.”*  
+✨ “Code. Build. Impact.”
+
+🚀 “Turning ideas into reality through code.”
+
+💡 “Coding with purpose, building with passion.”
+
+🐍 “Python first, solutions always.”
+
+🔥 “Creating scalable solutions that matter.”
