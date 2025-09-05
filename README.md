@@ -39,6 +39,10 @@ I enjoy turning **concepts into execution**, as shown in my projects:
 - 💛 **JavaScript Frontend Apps** – Developed interactive UIs with dynamic features and client-side logic.  
 
 ---
+- 🔭 I’m currently working on **A model project which is model website example with (html + css + javascript) WEBSITE: Nova**
+
+- 🌱 I’m currently learning **AWS,**
+----
 
 ## 🔥 Passion That Powers My Work  
 My passion for **coding, problem-solving, and continuous learning** fuels my journey.  
