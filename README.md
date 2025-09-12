@@ -66,7 +66,6 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 ---
 
 ## 📌 Featured Projects
-
 | Project                        | Description                                      | Tech Stack                     | GitHub Folder |
 |------------------------------ -|-------------------------------------------------- |--------------------------------|----------------|
 | 🧠 Diabetic Prediction App     | ML-based diabetes prediction with Flask UI.     | Python, Flask                  | [Diabetic-Prediction-App](https://github.com/PriyadarshiniR0/diabetic-prediction) |
@@ -124,8 +123,8 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask></a><br>
-      </p>
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask></a>
+</p>
 
 ---
 
