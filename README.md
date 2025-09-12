@@ -119,7 +119,7 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 </p>
 
 ---
----
+
 
 ## 🌐 Connect With Me  
 
