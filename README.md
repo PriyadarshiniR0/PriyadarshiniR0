@@ -54,7 +54,7 @@ Here’s a showcase of the real-world projects I’ve built, reflecting my passi
 A model website project titled **Nova**, built with **HTML, CSS, and JavaScript**.
 
 ## 🌱 Currently Learning  
-Exploring **AWS** to expand my cloud deployment and DevOps capabilities,and learning **Scikit-learn, Pandas and NumPy** 
+Exploring **AWS** to expand my cloud deployment and DevOps capabilities, and learning **Scikit-learn, Pandas and NumPy**.
 
 ---
 
@@ -65,25 +65,66 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 
 ---
 
-
-
 ## 📌 Featured Projects
 
-| Project                        | Description                                      | Tech Stack                     | GitHub Folder                           |
-|------------------------------- |------------------------------------------------- |----------------------------- --------------------------------------------|
-| 🧠 Diabetic Prediction App     | ML-based diabetes prediction with Flask UI.     | Python, Flask,                 | [Diabetic-Prediction-App](https://github.com/PriyadarshiniR0/diabetic-prediction)|
+| Project                        | Description                                      | Tech Stack                     | GitHub Folder |
+|------------------------------ -|-------------------------------------------------- |--------------------------------|----------------|
+| 🧠 Diabetic Prediction App     | ML-based diabetes prediction with Flask UI.     | Python, Flask                  | [Diabetic-Prediction-App](https://github.com/PriyadarshiniR0/diabetic-prediction) |
 | 🤖 Selenium Automation Scripts | Web testing and automation scripts.             | Python, Selenium               | [Selenium-Automation](https://github.com/PriyadarshiniR0/python-selenium) |
 | 🏨 Hotel Automation            | Automated hotel booking flow.                   | Python, Selenium               | [Hotel-Automation](https://github.com/PriyadarshiniR0/Hotel_Automation_Project) |
-| 🌦 Weather API App              | Displays live weather data.                     | HTML, CSS, JS, OpenWeather API | [Weather-API-App](https://github.com/PriyadarshiniR0/Weather-api) |
+| 🌦 Weather API App             | Displays live weather data.                     | HTML, CSS, JS,OpenWeather API | [Weather-API-App](https://github.com/PriyadarshiniR0/Weather-api) |
 | 💻 JavaScript Features Project | DOM manipulation and UI interactivity.          | HTML, CSS, JS                  | [JavaScript-Features-Project](https://github.com/PriyadarshiniR0/JavaScript-) |
-| 🔑 User Authentication System  | Django-based login/signup/logout system.        | Django, SQLite                 |[User-Authentication](https://github.com/PriyadarshiniR0/User-Registration-Authentication)|
+| 🔑 User Authentication System  | Django-based login/signup/logout system.        | Django, SQLite                 | [User-Authentication](https://github.com/PriyadarshiniR0/User-Registration-Authentication) |
 | ⚙️ Django CBVs Project         | CRUD using Django Class-Based Views.            | Django                         | [Django-CBVs-CRUD](https://github.com/PriyadarshiniR0/Class-Based-Views-in-Django) |
 | 📝 Blog Application            | Blog platform with CRUD operations.             | Django, SQLite                 | [Blog-Application](https://github.com/PriyadarshiniR0/Blog-Application) |
 | 🛒 Django E-Commerce           | Product listing, search, cart, and checkout.    | Django, Bootstrap, SQLite      | [Django-Ecommerce](https://github.com/PriyadarshiniR0/Django-Ecommerce) |
-| 📚 Library Management System   | Manage books, borrowers, and due dates.         | Django, SQLite                 | [Library-Management-System](https://github.com/PriyadarshiniR0/Library-Management-System)|
-| 🎓 Student Management System   | Admin dashboard for student records.            | Django, Bootstrap              | [Student-Management-System](https://github.com/PriyadarshiniR0/Student-Management-System)|
+| 📚 Library Management System   | Manage books, borrowers, and due dates.         | Django, SQLite                 | [Library-Management-System](https://github.com/PriyadarshiniR0/Library-Management-System) |
+| 🎓 Student Management System   | Admin dashboard for student records.            | Django, Bootstrap              | [Student-Management-System](https://github.com/PriyadarshiniR0/Student-Management-System) |
 
+---
 
+## 🧰 Languages and Tools
+
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Knowledge Based on Projects
+
+<p align="left">
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask
 
 ------
 
@@ -123,57 +164,6 @@ python manage.py runserver
 🌐 **Portfolio:** [portfolio-e745.onrender.com](https://portfolio-e745.onrender.com/)  
 💻 **GitHub:** [github.com/PriyadarshiniR0](https://github.com/PriyadarshiniR0)  
 🔗 **LinkedIn:** [linkedin.com/in/priyadarshini-r-b62751274](https://www.linkedin.com/in/priyadarshini-r-b62751274/)  
-
----
-
-## 📊 GitHub Stats
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Knowledge Based on Few Projects:</h3>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyadarshinir0&show_icons=true&locale=en&layout=compact" alt="priyadarshinir0" />
-</p>
- 
-
-
 
 ---
 
