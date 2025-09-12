@@ -54,7 +54,7 @@ Here’s a showcase of the real-world projects I’ve built, reflecting my passi
 A model website project titled **Nova**, built with **HTML, CSS, and JavaScript**.
 
 ## 🌱 Currently Learning  
-Exploring **AWS** to expand my cloud deployment and DevOps capabilities.
+Exploring **AWS** to expand my cloud deployment and DevOps capabilities,and learning **Scikit-learn, Pandas and NumPy** 
 
 ---
 
@@ -90,8 +90,7 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 ## 🛠️ Tech Stack
 
 - **Backend:** Django, Flask, Python (OOP)  
-- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy  
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript   
 - **Automation:** Selenium WebDriver  
 - **Database:** SQLite (default), PostgreSQL, MySQL  
 - **Other Tools:** Django ORM, CBVs, User Authentication, REST APIs
