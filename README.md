@@ -125,6 +125,7 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask></a><br>
+      </p>
 
 ---
 
