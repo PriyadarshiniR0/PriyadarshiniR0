@@ -124,7 +124,7 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask>
 
 ------
 
