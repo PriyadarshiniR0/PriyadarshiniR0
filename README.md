@@ -81,6 +81,35 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 | 🎓 Student Management System   | Admin dashboard for student records.            | Django, Bootstrap              | [Student-Management-System](https://github.com/PriyadarshiniR0/Student-Management-System) |
 
 ---
+## 🛠️ Tech Stack
+
+- **Backend:** Django, Flask, Python (OOP)  
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy  
+- **Automation:** Selenium WebDriver  
+- **Database:** SQLite (default), PostgreSQL, MySQL  
+- **Other Tools:** Django ORM, CBVs, User Authentication, REST APIs
+
+---
+## 🚀 Quick Setup
+
+Clone this repository and run any project:
+
+```bash
+git clone https://github.com/PriyadarshiniR0/portfolio
+cd project-portfolio
+
+# Example: Run the Django E-Commerce project
+cd Django-Ecommerce
+
+python -m venv venv
+source venv/bin/activate   # For Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+
+---
 
 ## 🧰 Languages and Tools
 
@@ -128,35 +157,7 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Backend:** Django, Flask, Python (OOP)  
-- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript  
-- **Machine Learning:** Scikit-learn, Pandas, NumPy  
-- **Automation:** Selenium WebDriver  
-- **Database:** SQLite (default), PostgreSQL, MySQL  
-- **Other Tools:** Django ORM, CBVs, User Authentication, REST APIs
-
----
-## 🚀 Quick Setup
-
-Clone this repository and run any project:
-
-```bash
-git clone https://github.com/PriyadarshiniR0/portfolio
-cd project-portfolio
-
-# Example: Run the Django E-Commerce project
-cd Django-Ecommerce
-
-python -m venv venv
-source venv/bin/activate   # For Windows: venv\Scripts\activate
-
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-
----
 ## 🌐 Connect With Me  
 
 📩 **Email:** [priyadarshiniraju2002@gmail.com](mailto:priyadarshiniraju2002@gmail.com)  
