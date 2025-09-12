@@ -61,8 +61,7 @@ Exploring **AWS** to expand my cloud deployment and DevOps capabilities.
 
 # 🐍 Full-Stack & ML Project Portfolio  
 
-Welcome to my **Project Portfolio Repository** — a collection of **real-world projects** showcasing my skills in **Django, Flask, Machine Learning, Selenium Automation, and JavaScript**.  
-Each project demonstrates **problem-solving, full-stack development, and deployment-ready features**.  
+Welcome to my **Project Portfolio Repository** — a collection of **real-world projects** showcasing my skills in **Django, Flask, Machine Learning, Selenium Automation, and JavaScript**. Each project demonstrates **problem-solving, full-stack development, and deployment-ready features**.  
 
 ---
 
