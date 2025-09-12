@@ -137,7 +137,7 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 - **Database:** SQLite (default), PostgreSQL, MySQL  
 - **Other Tools:** Django ORM, CBVs, User Authentication, REST APIs
 
---
+---
 ## 🚀 Quick Setup
 
 Clone this repository and run any project:
@@ -156,7 +156,7 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
-
+---
 ## 🌐 Connect With Me  
 
 📩 **Email:** [priyadarshiniraju2002@gmail.com](mailto:priyadarshiniraju2002@gmail.com)  
