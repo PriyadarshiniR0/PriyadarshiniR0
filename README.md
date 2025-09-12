@@ -65,24 +65,27 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 
 ---
 
+
+
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack | GitHub Folder |
-|--------|-------------|-----------|---------------|
+| Project                        | Description                                      | Tech Stack                     | GitHub Folder                                                                            |
+|------------------------------- |------------------------------------------------- |------------------------------- |------------------------------------------------------------------------------------------|
+| 🧠 Diabetic Prediction App     | ML-based diabetes prediction with Flask UI.     | Python, Flask,                 | [Diabetic-Prediction-App](https://github.com/PriyadarshiniR0/diabetic-prediction)|
+| 🤖 Selenium Automation Scripts | Web testing and automation scripts.             | Python, Selenium               | [Selenium-Automation](https://github.com/PriyadarshiniR0/python-selenium) |
+| 🏨 Hotel Automation            | Automated hotel booking flow.                   | Python, Selenium               | [Hotel-Automation](https://github.com/PriyadarshiniR0/Hotel_Automation_Project) |
+| 🌦 Weather API App              | Displays live weather data.                     | HTML, CSS, JS, OpenWeather API | [Weather-API-App](https://github.com/PriyadarshiniR0/Weather-api) |
+| 💻 JavaScript Features Project | DOM manipulation and UI interactivity.          | HTML, CSS, JS                  | [JavaScript-Features-Project](https://github.com/PriyadarshiniR0/JavaScript-) |
+| 🔑 User Authentication System  | Django-based login/signup/logout system.        | Django, SQLite                 |[User-Authentication](https://github.com/PriyadarshiniR0/User-Registration-Authentication)|
+| ⚙️ Django CBVs Project         | CRUD using Django Class-Based Views.            | Django                         | [Django-CBVs-CRUD](https://github.com/PriyadarshiniR0/Class-Based-Views-in-Django) |
+| 📝 Blog Application            | Blog platform with CRUD operations.             | Django, SQLite                 | [Blog-Application](https://github.com/PriyadarshiniR0/Blog-Application) |
+| 🛒 Django E-Commerce           | Product listing, search, cart, and checkout.    | Django, Bootstrap, SQLite      | [Django-Ecommerce](https://github.com/PriyadarshiniR0/Django-Ecommerce) |
+| 📚 Library Management System   | Manage books, borrowers, and due dates.         | Django, SQLite                 | [Library-Management-System](https://github.com/PriyadarshiniR0/Library-Management-System)|
+| 🎓 Student Management System   | Admin dashboard for student records.            | Django, Bootstrap              | [Student-Management-System](https://github.com/PriyadarshiniR0/Student-Management-System)|
 
-| 🧠 **Diabetic Prediction App** | ML-based diabetes prediction with Flask UI. | Python, Flask, Scikit-learn, Pandas | [Diabetic-Prediction-App](https://github.com/PriyadarshiniR0/diabetic-prediction) |
-| 🤖 **Selenium Automation Scripts** | Web testing and automation scripts. | Python, Selenium | [Selenium-Automation](https://github.com/PriyadarshiniR0/python-selenium) |
-| 🏨 **Hotel Automation** | Automated hotel booking flow. | Python, Selenium | [Hotel-Automation](https://github.com/PriyadarshiniR0/Hotel_Automation_Project) |
-| 🌦 **Weather API App** | Displays live weather data. | HTML, CSS, JS, OpenWeather API | [Weather-API-App](https://github.com/PriyadarshiniR0/Weather-api) |
-| 💻 **JavaScript Features Project** | DOM manipulation and UI interactivity. | HTML, CSS, JS | [JavaScript-Features-Project](https://github.com/PriyadarshiniR0/JavaScript-) |
-| 🔑 **User Authentication System** | Django-based login/signup/logout system. | Django, SQLite | [User-Authentication](https://github.com/PriyadarshiniR0/User-Registration-Authentication) |
-| ⚙️ **Django CBVs Project** | CRUD using Django Class-Based Views. | Django | [Django-CBVs-CRUD](https://github.com/PriyadarshiniR0/Class-Based-Views-in-Django) |
-| 📝 **Blog Application** | Blog platform with CRUD operations. | Django, SQLite | [Blog-Application](https://github.com/PriyadarshiniR0//Blog-Application/) |
-| 🛒 **Django E-Commerce** | Product listing, search, cart, and checkout. | Django, Bootstrap, SQLite | [Django-Ecommerce](https://github.com/PriyadarshiniR0//Django-Ecommerce/) |
-| 📚 **Library Management System** | Manage books, borrowers, and due dates. | Django, SQLite | [Library-Management-System](https://github.com/PriyadarshiniR0//Library-Management-System/) |
-| 🎓 **Student Management System** | Admin dashboard for student records. | Django, Bootstrap | [Student-Management-System](https://github.com/PriyadarshiniR0//Student-Management-System/) |
 
----
+
+------
 
 ## 🛠️ Tech Stack
 
