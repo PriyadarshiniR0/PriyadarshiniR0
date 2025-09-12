@@ -124,20 +124,20 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask></a>
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask></a><br>
 
-------
+---
 
 ## 🛠️ Tech Stack
 
 - **Backend:** Django, Flask, Python (OOP)  
-- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript   
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript  
+- **Machine Learning:** Scikit-learn, Pandas, NumPy  
 - **Automation:** Selenium WebDriver  
 - **Database:** SQLite (default), PostgreSQL, MySQL  
 - **Other Tools:** Django ORM, CBVs, User Authentication, REST APIs
 
----
-
+--
 ## 🚀 Quick Setup
 
 Clone this repository and run any project:
@@ -156,16 +156,16 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
-----
 
 ## 🌐 Connect With Me  
 
 📩 **Email:** [priyadarshiniraju2002@gmail.com](mailto:priyadarshiniraju2002@gmail.com)  
-🌐 **Portfolio:** [portfolio-e745.onrender.com](https://portfolio-e745.onrender.com/)  
+🌐 **Portfolio:** [portfolio-ulvs.onrender.com](https://portfolio-ulvs.onrender.com/)  
 💻 **GitHub:** [github.com/PriyadarshiniR0](https://github.com/PriyadarshiniR0)  
 🔗 **LinkedIn:** [linkedin.com/in/priyadarshini-r-b62751274](https://www.linkedin.com/in/priyadarshini-r-b62751274/)  
 
 ---
+
 
 ✨ “Code. Build. Impact.”
 
