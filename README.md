@@ -91,25 +91,6 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 - **Other Tools:** Django ORM, CBVs, User Authentication, REST APIs
 
 ---
-## 🚀 Quick Setup
-
-Clone this repository and run any project:
-
-```bash
-git clone https://github.com/PriyadarshiniR0/portfolio
-cd project-portfolio
-
-# Example: Run the Django E-Commerce project
-cd Django-Ecommerce
-
-python -m venv venv
-source venv/bin/activate   # For Windows: venv\Scripts\activate
-
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-
----
 
 ## 🧰 Languages and Tools
 
