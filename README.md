@@ -119,6 +119,15 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 </p>
 
 ---
+---
+
+## 🌐 Connect With Me  
+
+📩 **Email:** [priyadarshiniraju2002@gmail.com](mailto:priyadarshiniraju2002@gmail.com)  
+🌐 **Portfolio:** [portfolio-ulvs.onrender.com](https://portfolio-ulvs.onrender.com/)  
+💻 **GitHub:** [github.com/PriyadarshiniR0](https://github.com/PriyadarshiniR0)  
+🔗 **LinkedIn:** [linkedin.com/in/priyadarshini-r-b62751274](https://www.linkedin.com/in/priyadarshini-r-b62751274/)  
+---
 
 ## 🧠 Knowledge Based on Projects
 
@@ -137,14 +146,6 @@ Each project demonstrates **problem-solving, full-stack development, and deploym
 </p>
 
 ##
----
-
-## 🌐 Connect With Me  
-
-📩 **Email:** [priyadarshiniraju2002@gmail.com](mailto:priyadarshiniraju2002@gmail.com)  
-🌐 **Portfolio:** [portfolio-ulvs.onrender.com](https://portfolio-ulvs.onrender.com/)  
-💻 **GitHub:** [github.com/PriyadarshiniR0](https://github.com/PriyadarshiniR0)  
-🔗 **LinkedIn:** [linkedin.com/in/priyadarshini-r-b62751274](https://www.linkedin.com/in/priyadarshini-r-b62751274/)  
 
 ---
 
